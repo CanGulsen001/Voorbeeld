@@ -1,2 +1,2 @@
-class Voorbeeld{
+class Voorbeeld{onzinnige dingen
 }
